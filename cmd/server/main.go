@@ -1,10 +1,10 @@
 package main
 
 import (
-	"example/web-service-gin/infra"
 	"example/web-service-gin/internal/albums/handlers"
 	"example/web-service-gin/internal/albums/repositories"
-	"example/web-service-gin/services"
+	"example/web-service-gin/internal/albums/services"
+	"example/web-service-gin/internal/infra"
 
 	"github.com/gin-gonic/gin"
 )

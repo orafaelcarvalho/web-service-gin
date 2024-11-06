@@ -1,7 +1,7 @@
 package services
 
 import (
-	"example/web-service-gin/domain"
+	"example/web-service-gin/internal/albums/domain"
 	"example/web-service-gin/internal/albums/repositories"
 )
 

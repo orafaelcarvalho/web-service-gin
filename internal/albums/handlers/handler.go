@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"example/web-service-gin/domain"
-	"example/web-service-gin/services"
+	"example/web-service-gin/internal/albums/domain"
+	"example/web-service-gin/internal/albums/services"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

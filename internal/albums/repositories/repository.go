@@ -3,7 +3,7 @@ package repositories
 import (
 	"database/sql"
 	"errors"
-	"example/web-service-gin/domain"
+	"example/web-service-gin/internal/albums/domain"
 )
 
 type Repository interface {
